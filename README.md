@@ -1,2 +1,2 @@
 # BlenderGameToolsDoc
-Wiki for the BlenderGameTools repo &amp; Blender/UE files
+Repository containing the wiki for the **Game Tools** Blender Extension as well as Unreal Engine Content Examples files (>= 5.3 required)
